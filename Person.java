@@ -8,4 +8,6 @@ public class Person{
         return 40;
     }
 
+    public static final String HEIGHT = "100";
+
 }
