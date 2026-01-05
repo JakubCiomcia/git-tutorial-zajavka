@@ -22,5 +22,13 @@ public class Person{
         System.out.println("Hello!");
         System.out.println("Hello2!");
         System.out.println("Hello3!");
+        System.out.println("Hello5!");
+        System.out.println("Hello5!");
+        System.out.println("Hello7!");
+        System.out.println("Hello7!");
+        System.out.println("Hello7!");
+        System.out.println("Hello7!");
+        System.out.println("Hello7!");
+        System.out.println("Hello7!");
     }
 }
