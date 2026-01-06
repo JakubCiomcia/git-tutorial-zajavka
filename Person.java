@@ -19,11 +19,14 @@ public class Person{
     }
 
     public void hello(){
-        System.out.println("Hello!");
-        System.out.println("Hello!");
-        System.out.println("Hello!");
-        System.out.println("Hello!");
-        System.out.println("Hello!");
+        // comment
+        // comment
+        // comment
+        // comment
+        // comment
+        // comment
+        // comment
+        // comment
         System.out.println("Hello!");
         System.out.println("Hello!");
         System.out.println("Hello!");
