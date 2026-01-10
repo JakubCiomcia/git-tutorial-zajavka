@@ -6,6 +6,7 @@ public class Main {
 //        feature branch -> origin/feature-branch -> MR -> Gradle build ->
 //        approve -> (origin/feature-branch => origin/master) -> git checkout master -> git pull
         System.out.println("Commit-1");
+        System.out.println("Commit-2");
     }
 
 }
