@@ -7,6 +7,7 @@ public class Main {
 //        approve -> (origin/feature-branch => origin/master) -> git checkout master -> git pull
         System.out.println("Commit-1");
         System.out.println("Commit-2");
+        System.out.println("Commit-3");
     }
 
 }
