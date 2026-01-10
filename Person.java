@@ -2,9 +2,11 @@ import java.math.BigDecimal;
 
 public class Person{
 
+    private String name;
+
     public static final String HEIGHT = "100";
 
-    private String name;
+//    private String name;
     private BigDecimal salary;
     private String pesel;
     private String surname;
